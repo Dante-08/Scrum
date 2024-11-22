@@ -1,0 +1,19 @@
+Scrum
+
+O Scrum é um tipo de framework utilizado para organização do projeto a ser realizado
+ele faz com que tenhamos que seguir um passo a passo para o bom andamento do projeto
+Tem uma metodologia bem simples, onde primeiro aconte o Product Backlog onde é informado
+todas as funcionalidades que o projeto deve fazer e como está proseguindo, exemplo,
+ele mostra o que deve ser feito, o que está sendo feito e o que já foi feito.
+Sprint Planning é uma reunião feita para passar o conteudo do Product Backlog para poder fazer
+um sprint do projeto.
+Sprint é um tempo de 1 a 4 semanas realizado para a produção do objetivo falado no Sprint Planning
+com foco em realizar esse objetivo no tempo proposto
+Daily Scrum são reuniões (com duração de até 15 minutos) que a equipe fala sobre o andamento do projeto
+dificuldades com algumas tarefas, e o que já foi finalizado, também é falado sobre o que devera ser feito 
+naquele dia nessas reuniões devem estar presentes o scrum master, PO(Product Owner, ele é a pessoa que sabe
+detalhadamente como cada função deve funcionar, lider equipe TI e a Equipe de tecnologia(eles são quem vai
+desenvolver o projeto)
+Sprint Retrospective reunião onde a equipe reflete sobre o sprint, identifica o que funcionou bem 
+e o que pode ser melhorado, e cria um plano de ação para implementar essas melhorias no próximo sprint
+Incremento O produto funcional e potencialmente entregável criado ao final de cada sprint, que deve adicionar valor ao produto.
